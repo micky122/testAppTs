@@ -1,0 +1,19 @@
+.input-container {
+    position: relative;
+    width: 100%;
+  }
+  
+  #input-field {
+    padding-left: 30px; /* Gives space for the icon inside the input */
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* .icon {
+    position: absolute;
+    top: 15%;
+    z-index: 100;
+    right: 1px;
+    display: inline-flex;
+  } */
